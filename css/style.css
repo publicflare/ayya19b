@@ -1,0 +1,55 @@
+
+audio{
+	width: 375px;
+}
+
+div .text-justify{
+	font-family: Arial, Sans-Serif;
+	font-size: 1.1em;
+}
+.antara{
+	margin-top: 50px;
+}
+
+.jumbotron img{
+	height: 300px;
+	width: 300px;
+	border: 7px solid #FF00D2
+
+}
+
+.ucapan hr{
+	width: 300px;
+	border-top: 4px solid #EEEBEB;
+}
+
+section{
+	min-height: 500px;
+}
+
+.galeri hr{
+	width: 300px;
+	border-top: 4px solid #999;
+}
+
+.galeri{
+	background-color: #eee;
+}
+
+
+footer{
+	height: 100px;
+	background: #2C2C2C;
+	padding-top: 25px;
+	margin-top: 20px;
+}
+
+footer p{
+	color: white;
+	font-size: 1.2em;
+
+}
+
+footer p a{
+	color: gold;
+}
